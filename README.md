@@ -3,6 +3,5 @@
 # What I learned
 
 - How to manipulate and access state and props
-- Load external helper functions from separate JS files
-- Manipulate HTML using JSX
-- Binding onClick functions
+- How to change HTML based on state
+- Bind onClick functions
