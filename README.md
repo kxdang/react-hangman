@@ -1,7 +1,9 @@
-## Hangman React App
+## Hangman
+A React hangman game from Colt Steele's Modern React Bootcamp
 
-# What I learned
 
-- How to manipulate and access state and props
-- How to change HTML based on state
-- Bind onClick functions
+## 👨‍🎓What I learned:
+
+- Handling data in React state 
+- Practice with binding React methods
+- Practice manipulating DOM based on state
